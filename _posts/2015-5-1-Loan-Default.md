@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loan Default Prediction
+published: true
 ---
 
 
