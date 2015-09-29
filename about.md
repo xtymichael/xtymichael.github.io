@@ -6,12 +6,12 @@ published: true
 ---
 
 
-Some information about you!
+Hi! I'm Michael Xiang.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am 
 
 ### Contact me
 
 [ty.xiang@hotmail.com](mailto:ty.xiang@hotmail.com)
+[LinkedIn])(https://www.linkedin.com/in/xiangmichael)
+
