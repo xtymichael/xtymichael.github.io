@@ -7,9 +7,9 @@ published: true
 
 
 Hi! I'm Michael Xiang.
-
-![About me](/images/me.png)
-
+<!-- ![About me](/images/me.png)
+ -->
+ 
 I graduated from Boston College. I have B.S in both Computer Science and Mathematics. 
 
 I'm currently looking for a Software Developer job in the United States.
