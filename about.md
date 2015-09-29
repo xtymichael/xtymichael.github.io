@@ -10,13 +10,11 @@ Hi! I'm Michael Xiang.
 
 ![About me](/images/me.jpg =300x400)
 
-I graduated from Boston College. I have B.S in both Computer Science and Mathematics. 
-
-I'm currently looking for a Software Developer job in the United States.
+I graduated from Boston College with B.S in both Computer Science and Mathematics. 
 
 I love technologies and seeking to be inspired by those brightest minds of the industry. 
 
-Please check out [projects I've working on](http://xtymichael.github.io)
+Please check out [projects I've working on.](http://xtymichael.github.io)
 
 ### Contact me
 
