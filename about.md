@@ -8,8 +8,6 @@ published: true
 
 Hi! I'm Michael Xiang.
 
-![About me](/images/me.jpg =300x)
-
 I graduated from Boston College with B.S in both Computer Science and Mathematics. 
 
 I love technologies and seeking to be inspired by those brightest minds of the industry. 
